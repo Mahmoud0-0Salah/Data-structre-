@@ -1,0 +1,3 @@
+C:/Users/ms993/CLionProjects/DS/cmake-build-debug/CMakeFiles/DS.dir
+C:/Users/ms993/CLionProjects/DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ms993/CLionProjects/DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
